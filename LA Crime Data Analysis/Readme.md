@@ -2,6 +2,9 @@
 Hey there! I'm thrilled to share my deep dive into the dynamic world of Los Angeles' crime data. 🕵️‍♂️
 
 Join me on a journey as I unravel the numbers to reveal the stories and insights they hide. In my LA Crime Data Analysis report, I delve beyond the surface to bring you a narrative that weaves together the threads of data with the very fabric of human experience. Let's discover the story together.
+
+Below you'll find an overview of the contents of our [LA Crime Data Analysis](https://github.com/Pramita0410/Power-BI/blob/main/LA%20Crime%20Data%20Analysis/LA%20Crime%20Data%20Analysis.pdf) report.
+
 ## Chapters
 
 ### 📈 Crime Rates Over Time
