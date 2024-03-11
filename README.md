@@ -14,7 +14,7 @@ Embark on a culinary expedition through inspection records, where the health of 
 ### 🎬 [IMDB Data]([./IMDB%20DATA])
 Stroll down the red carpet of analytics, where the stars of the screen meet the stars of data visualization in a blockbuster showdown.
 
-### 📊 [Product Sales Data]([./Product%20sales%20data])
+### 📊 [Product Sales Data](https://github.com/Pramita0410/Power-BI/tree/main/Product%20Sales%20Analysis)
 Navigate the bustling aisles of commerce, where products tell tales of trends, tastes, and the pulse of the marketplace.
 
 ## Your Invitation
