@@ -5,16 +5,16 @@
 Step into this Power-BI repository, a treasure trove where data tells stories, insights light the way, and numbers dance to the rhythm of discovery.
 ## Explore the Data Realms
 
-### 🚓 [LA Crime Data](https://github.com/Pramita0410/Power-BI/tree/main/Crime%20Data%20Analysis-%20LA)
+### 🚓 [LA Crime Data Analysis](https://github.com/Pramita0410/Power-BI/tree/main/Crime%20Data%20Analysis-%20LA)
 Dive deep into the heart of Los Angeles, where each statistic unveils a story of resilience, challenge, and the unending quest for a safer tomorrow.
 
-### 🍽️ [Food Inspection Data](https://github.com/Pramita0410/Power-BI/tree/main/Food%20Inspection%20Data%20Analysis)
+### 🍽️ [Food Inspection Data Analysis](https://github.com/Pramita0410/Power-BI/tree/main/Food%20Inspection%20Data%20Analysis)
 Embark on a culinary expedition through inspection records, where the health of our dining experiences is laid bare on the table of scrutiny.
 
-### 🎬 [IMDB Data](https://github.com/Pramita0410/Power-BI/tree/main/IMDB%20Data%20Analysis)
+### 🎬 [IMDB Data Analysis](https://github.com/Pramita0410/Power-BI/tree/main/IMDB%20Data%20Analysis)
 Stroll down the red carpet of analytics, where the stars of the screen meet the stars of data visualization in a blockbuster showdown.
 
-### 📊 [Product Sales Data](https://github.com/Pramita0410/Power-BI/tree/main/Product%20Sales%20Analysis)
+### 📊 [Product Sales Data Analysis](https://github.com/Pramita0410/Power-BI/tree/main/Product%20Sales%20Analysis)
 Navigate the bustling aisles of commerce, where products tell tales of trends, tastes, and the pulse of the marketplace.
 
 ## Your Invitation
