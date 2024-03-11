@@ -1,4 +1,4 @@
-#Let's together Unravel decades of movie magic through trend graphs, genre popularity contests, and metrics that gauge the pulse of the film industry.
+# Let's together Unravel decades of movie magic through trend graphs, genre popularity contests, and metrics that gauge the pulse of the film industry.
 
 
 ## 🎬 Trend Analysis
