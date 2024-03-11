@@ -8,13 +8,13 @@ Step into this Power-BI repository, a treasure trove where data tells stories, i
 ### 🚓 [LA Crime Data](https://github.com/Pramita0410/Power-BI/tree/main/Crime%20Data%20Analysis-%20LA)
 Dive deep into the heart of Los Angeles, where each statistic unveils a story of resilience, challenge, and the unending quest for a safer tomorrow.
 
-### 🍽️ [Food Inspection Data]([./FOOD-INSPECTION%20DATA](https://github.com/Pramita0410/Power-BI/tree/main/Food%20Inspection%20Data%20Analysis))
+### 🍽️ [Food Inspection Data]([./FOOD-INSPECTION%20DATA])
 Embark on a culinary expedition through inspection records, where the health of our dining experiences is laid bare on the table of scrutiny.
 
-### 🎬 [IMDB Data]([./IMDB%20DATA](https://github.com/Pramita0410/Power-BI/tree/main/IMDB%20Data%20Analysis))
+### 🎬 [IMDB Data]([./IMDB%20DATA])
 Stroll down the red carpet of analytics, where the stars of the screen meet the stars of data visualization in a blockbuster showdown.
 
-### 📊 [Product Sales Data]([./Product%20sales%20data](https://github.com/Pramita0410/Power-BI/tree/main/Product%20Sales%20Analysis))
+### 📊 [Product Sales Data]([./Product%20sales%20data])
 Navigate the bustling aisles of commerce, where products tell tales of trends, tastes, and the pulse of the marketplace.
 
 ## Your Invitation
