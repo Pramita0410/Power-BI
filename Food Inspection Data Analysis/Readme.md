@@ -1,6 +1,5 @@
 # Let's together Unravel decades of movie magic through trend graphs, genre popularity contests, and metrics that gauge the pulse of the film industry.
 
-
 ## 🎬 Trend Analysis
 Explore the evolution of cinema with average movie runtimes, yearly quality of releases, and distribution of movie launches.
 
