@@ -25,13 +25,5 @@ The plot thickens with the characters in this ongoing saga. Age and gender weave
 ### 🚓 Arrests Ratio
 And what of the closing chapters? For some stories, the end is an arrest. We look at the final act, whether it leads to a juvenile detention center or an adult facility.
 
-Join us as we leaf through the pages of data and uncover the hidden chapters of Los Angeles' ongoing narrative. Each graph, each chart, each map tells a part of our city's tale.
-
-Together, we're not just reading numbers; we're reading between the lines of what makes a city tick, and perhaps, how we can nudge it towards a better tomorrow.
-
-## Closing Thoughts
-
-We believe in the power of data to inform, empower, and inspire change. Our LA Crime Data Analysis is an invitation: to ponder, to discuss, and to act.
-
 **Thank you for being an integral part of this journey.**
 
