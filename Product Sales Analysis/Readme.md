@@ -24,7 +24,7 @@ Here, the dashboards offer a comprehensive look into:
 
 Eager to uncover insights and propel your business or curiosity forward? The dashboards are just a click away. I've designed them to be intuitive, insightful, and invaluable to your decision-making process.
 
-For a closer look and to start exploring the data, [click here](https://github.com/yourusername/yourprojectpath).
+For a closer look and to start exploring the data, [click here](https://github.com/Pramita0410/Power-BI/blob/main/Product%20Sales%20Analysis/Customer%20Sales%20Analysis.pdf).
 
 Happy analyzing!
 
