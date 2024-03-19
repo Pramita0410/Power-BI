@@ -1,4 +1,5 @@
-# Let's together Unravel decades of movie magic through trend graphs, genre popularity contests, and metrics that gauge the pulse of the film industry. [Click Here](https://github.com/Pramita0410/Power-BI/blob/main/Food%20Inspection%20Data%20Analysis/Food%20Inspection%20PowerBI%20dashboard.pdf)
+# Let's together Unravel decades of movie magic through trend graphs, genre popularity contests, and metrics that gauge the pulse of the film industry.
+### [Click Here to see the dashboards](https://github.com/Pramita0410/Power-BI/blob/main/Food%20Inspection%20Data%20Analysis/Food%20Inspection%20PowerBI%20dashboard.pdf)
 
 
 ## 🎬 Trend Analysis
