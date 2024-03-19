@@ -1,8 +1,8 @@
 # Let's together Unravel decades of movie magic through trend graphs, genre popularity contests, and metrics that gauge the pulse of the film industry.
 
-Below you'll find an overview of the contents of LA Crime Data Analysis report.
+Below you'll find an overview of the contents of IMDB Data Analysis report.
 
-[Dashboards](https://github.com/Pramita0410/Power-BI/blob/main/Food%20Inspection%20Data%20Analysis/Food%20Inspection%20PowerBI%20dashboard.pdf)
+[IMDB Data Analysis](https://github.com/Pramita0410/Power-BI/blob/main/Food%20Inspection%20Data%20Analysis/Food%20Inspection%20PowerBI%20dashboard.pdf)
 
 
 ## 🎬 Trend Analysis
