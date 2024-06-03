@@ -20,6 +20,6 @@ Analyze sales data to understand market trends and consumer behavior.
 
 ## Explore and Learn
 
-We invite you to explore the datasets and leverage these visualizations to gain deeper insights into each topic. 
+I invite you to explore the datasets and leverage these visualizations to gain deeper insights into each topic. 
 
 **Happy Exploring!**
