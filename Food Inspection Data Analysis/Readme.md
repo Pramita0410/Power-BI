@@ -1,36 +1,37 @@
-
 # Food Inspection Data Analysis
-## Hey there!
 
-Welcome to our deep dive into the world of food inspections! I'm a data analyst who's been sifting through mountains of food inspection data to bring some clarity and insights to the surface. Using Power BI, I've transformed raw data into visual stories that reveal patterns, trends, and areas needing attention in food safety. This project is all about making data not just accessible but also engaging and informative. Let's explore the safety of what's on our plates together!
+## Welcome!
+
+I'm excited to share insights from our extensive analysis of food inspection data using Power BI. This project turns complex data into easy-to-understand visual stories that highlight important trends and safety concerns in the food industry.
 
 ## Business Requirements
-Our exploration is guided by a series of focused business requirements, structured to cover a comprehensive range of insights:
 
-**Temporal Analysis**: Inspection trends over various time frames – from yearly to daily.
+Our analysis addresses several key areas:
 
-**Inspection Outcomes**: The dynamics of pass vs. fail outcomes.
+**Temporal Analysis**: Explore how inspection results change over time, from daily to yearly trends.
 
-**Violation Categories**: Breaking down inspections by major, minor, and other violations.
+**Inspection Outcomes**: Understand the balance of pass and fail results in inspections.
 
-**Inspection Frequency**: Identifying the most frequently inspected food establishments.
+**Violation Categories**: Look at inspections categorized by severity of violations such as major or minor.
 
-**Geographical Insights**: Analyzing inspection data by city and identifying hotspots through mapping.
+**Inspection Frequency**: Identify which establishments are inspected most often.
 
-**Performance Analysis**: Highlighting establishments with recurring issues and pinpointing common violation codes.
+**Geographical Insights**: Analyze data by location to find areas with more frequent issues.
 
-**Comparative Analysis**: City-wise breakdown of restaurants and detailed insights into violation trends area-wise.
+**Performance Analysis**: Focus on places with recurring problems and common types of violations.
+
+**Comparative Analysis**: Compare inspection results and violation trends across different cities.
 
 ## Power BI Dashboards
 
-I've put together some dashboards in Power BI that serve as a window into the vast world of food inspection data. They're designed not just for data analysts but for anyone curious about food safety trends and insights. Here's what you can expect to find:
+Our Power BI dashboards offer a clear view into the data:
 
-**Interactive Visuals**: Dive into the data with interactive charts and maps that let you explore every angle of food inspections.
+**Interactive Visuals**: Engage with our data through interactive charts and maps.
 
-**Insightful Metrics**: From the most inspected restaurants to the most common violations, uncover the details that matter.
+**Insightful Metrics**: Discover key facts, like which restaurants are inspected most and common violations.
 
-**Custom Filters**: Filter the data by year, city, or violation type to find exactly what you're looking for.
+**Custom Filters**: Use filters to view data by year, city, or violation type to see exactly what interests you.
 
-Ready to explore?
+Ready to see more?
 
-Check out the dashboards [here](https://github.com/Pramita0410/Power-BI/blob/main/Food%20Inspection%20Data%20Analysis/Food%20Inspection%20PowerBI%20dashboard.pdf).
+View the dashboards [here](https://github.com/Pramita0410/Power-BI/blob/main/Food%20Inspection%20Data%20Analysis/Food%20Inspection%20PowerBI%20dashboard.pdf).
